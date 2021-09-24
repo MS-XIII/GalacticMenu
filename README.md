@@ -3,7 +3,13 @@
 
 2take1 lua script menu
 
-  
+## CREDITS TO
+###### Rimuru for assisting me with all my errors and providing WO CHRASH 
+###### GhostOne for assisting and providing the splash screen
+###### Duerccio for providing some of the trolling features
+###### Matthew123 for providing wades crash
+###### Thanks to Osiris and a few other scripts for providing features!!
+###### Atom for his only piece of working code because the rest was shit and broke
 
 ## FEATURES ##
 
