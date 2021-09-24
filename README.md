@@ -4,7 +4,7 @@
 2take1 lua script menu
 
 ## CREDITS TO
-###### Rimuru for assisting me with all my errors and providing WO CHRASH 
+###### Rimuru for assisting me with all my errors and providing WO CRASH 
 ###### GhostOne for assisting and providing the splash screen
 ###### Duerccio for providing some of the trolling features
 ###### Matthew123 for providing wades crash
