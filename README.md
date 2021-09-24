@@ -5,7 +5,7 @@
 
   Join my discord for regular updates and more!! [DISCORD LINK](https://discord.gg/wq2Y4FJKzC).
 
-########## FEATURES ###########
+## FEATURES ##
 
 ## CRASHES
 - INVALID ENTITY <br/>
