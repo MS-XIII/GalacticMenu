@@ -1,7 +1,7 @@
 # Galactic Menu 
 ![Menu](https://cdn.eso.org/images/thumb700x/galactic_center_hi.jpg)
 
-2take1 lua script menu
+###### #2take1 lua script menu#
 
 ## CREDITS TO
 ###### Rimuru for assisting me with all my errors and providing WO CRASH 
