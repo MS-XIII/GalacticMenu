@@ -1,5 +1,5 @@
 # Galactic Menu 
-![Menu](https://cdn.eso.org/images/thumb700x/galactic_center_hi.jpg)
+![MenuName](https://i.postimg.cc/m28tZYc3/galacticmenu1.png)
 
 ![ScriptMenu](https://i.postimg.cc/zvvFtJ64/rR5xJhJJ.png)
 
