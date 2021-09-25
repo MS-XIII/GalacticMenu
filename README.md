@@ -3,7 +3,7 @@
 
 ![ScriptMenu](https://i.postimg.cc/zvvFtJ64/rR5xJhJJ.png)
 
-###### #2take1 lua script menu#
+
 
 ## CREDITS TO
 ###### Rimuru for assisting me with all my errors and providing WO CRASH 
