@@ -3,8 +3,6 @@
 
 ![ScriptMenu](https://i.postimg.cc/zvvFtJ64/rR5xJhJJ.png)
 
-
-
 ## CREDITS TO
 ###### Rimuru for assisting me with all my errors and providing WO CRASH 
 ###### GhostOne for assisting and providing the splash screen
@@ -12,6 +10,54 @@
 ###### Matthew123 for providing wades crash
 ###### Thanks to Osiris and a few other scripts for providing features!!
 ###### Atom for his only piece of working code because the rest was shit and broke
+###### anyone else that i must have missed but im sure someone will tell me xD
+--------------------------------------------------------------------------------------
+## Version 1.1.0 26/09/2021 change logs
+
+
+## FEATURES ##
+
+## TROLLING
+- Level up sound
+
+## CHAT
+- Spam fuck your family one by one
+- Spam some weird shit
+- Spam i cant breathe
+- Spam haha i cant breathe
+- Spam you're black
+- Spam your pussy smells like fish
+- Spam i have the fattest cock on this planet
+- Spam i fucked your mom last night
+- Spam i have your location SKID
+- Spam To the desktop you go buddy
+
+## Added a Lobby section for more fun!!
+- Host kick all
+- send custom sms to lobby
+- chernobyl niggas
+- unmark all the dirty whores
+
+## added a crash lobby in the lobby section!!
+- 4 of the osiris lobby crashes 
+
+## Added a lobby chat section in!!
+- disable session chat
+- disable session chat LOCAL ONLY
+- send advertisement
+- paste clipboard
+- i am the best
+- starting race xD
+- spam everyone with random messages
+- send everyone advertisements 
+- send everyone there own ip 
+- send everyone there own rid
+- send everyone custom sms 
+
+
+--------------------------------------------------------------------------------------
+## Version 1.0.0 25/09/2021
+
 
 ## FEATURES ##
 
