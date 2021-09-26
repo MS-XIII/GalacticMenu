@@ -14,7 +14,6 @@
 --------------------------------------------------------------------------------------
 ## Version 1.1.0 26/09/2021 change logs
 
-
 ## FEATURES ##
 
 ## TROLLING
@@ -63,13 +62,9 @@
 - Everyone is a DICKHEAD
 - give all dicks/dildos
 
-## CEO/MC
-- Added Ceo 10k loop might be buggy who tf knows xD
-
 
 --------------------------------------------------------------------------------------
 ## Version 1.0.0 25/09/2021
-
 
 ## FEATURES ##
 
