@@ -54,6 +54,18 @@
 - send everyone there own rid
 - send everyone custom sms 
 
+## Added a lobby misc section in!!
+- Orbital Proximity Blip
+- Set Bounty on Lobby
+- Block all players Passive
+
+## Added a lobby troll section in!!
+- Everyone is a DICKHEAD
+- give all dicks/dildos
+
+## CEO/MC
+- Added Ceo 10k loop might be buggy who tf knows xD
+
 
 --------------------------------------------------------------------------------------
 ## Version 1.0.0 25/09/2021
