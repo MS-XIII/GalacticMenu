@@ -12,6 +12,21 @@
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.1.1 28/09/2021 change logs
+
+## FEATURES ##
+
+## Added recovery section
+- unlock all heist awards
+- unlock all
+- unlcok bunker/nightclub awards
+- unlock all outfits in facility
+- unlock drip feed vehicles
+- unlock drip feed outfits
+- and much more!!
+
+ ## Latest Version
+--------------------------------------------------------------------------------------
 ## Version 1.1.0 26/09/2021 change logs
 
 ## FEATURES ##
