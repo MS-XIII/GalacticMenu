@@ -12,6 +12,17 @@
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.1.2 29/09/2021 change logs
+
+## FEATURES ##
+
+## Added following feats to Trolling
+- Added "Cause Player To Fart"
+- Added "Slippery Driving"
+- Added "Cosmetic Bleedout"
+- Added "Cause Player To Shit"
+- Added "Ragdoll Player"
+--------------------------------------------------------------------------------------
 ## Version 1.1.1 28/09/2021 change logs
 
 ## FEATURES ##
