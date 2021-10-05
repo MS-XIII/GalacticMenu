@@ -12,6 +12,15 @@
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.1.3 05/10/2021 change logs 
+
+## FEATURES ##
+
+- Moved most of the chat spamming from within the player section to the lobby section
+- added new files
+- few other troll features
+- few other chat convos
+--------------------------------------------------------------------------------------
 ## Version 1.1.2 29/09/2021 change logs
 
 ## FEATURES ##
