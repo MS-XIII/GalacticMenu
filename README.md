@@ -19,7 +19,7 @@
 - Added few extra attachments on the flags.
 - Added more chat convos
 - added extra crash
-- added rain on player rockets, grenades, pipebombs
+- added rain on player rockets, grenades, pipebombs, fireworks, airdefence and lazers
 - added turn off engine and random engine shutdowns 
 - added remove explosive rounds 
 --------------------------------------------------------------------------------------
