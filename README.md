@@ -6,11 +6,22 @@
 ## CREDITS TO
 ###### Rimuru for assisting me with all my errors and providing WO CRASH 
 ###### GhostOne for assisting and providing the splash screen
-###### Duerccio for providing the trolling features
+###### Duerccio for providing the trolling features along with everyone who helped him
 ###### Matthew123 for providing wades crash
 ###### Thanks to Osiris and a few other scripts for providing features!!
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
+--------------------------------------------------------------------------------------
+## Version 1.1.4 08/10/2021 change logs
+
+## FEATURES ##
+
+- Added few extra attachments on the flags.
+- Added more chat convos
+- added extra crash
+- added rain on player rockets, grenades, pipebombs
+- added turn off engine and random engine shutdowns 
+- added remove explosive rounds 
 --------------------------------------------------------------------------------------
 ## Version 1.1.3 05/10/2021 change logs 
 
