@@ -2,9 +2,11 @@
 ![MenuName](https://i.postimg.cc/m28tZYc3/galacticmenu1.png)
 
 
-Lobby Tools                |  Victim Tools
+Victim Shit                |  Lobby Shit
 :-------------------------:|:-------------------------:
-![](https://i.postimg.cc/8FcMQCxH/Q0ba4YXT.png)  |  ![](https://i.postimg.cc/CRmkQ8r5/zNXubAiF.png)
+![](https://i.postimg.cc/mtMGjND3/unknown112.png)  |  ![](https://i.postimg.cc/c6vWgNGb/unknown113.png)
+
+
 
 
 ## CREDITS TO
