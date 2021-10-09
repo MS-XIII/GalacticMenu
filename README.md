@@ -1,7 +1,11 @@
 # Galactic Menu 
 ![MenuName](https://i.postimg.cc/m28tZYc3/galacticmenu1.png)
 
-![ScriptMenu](https://i.postimg.cc/zvvFtJ64/rR5xJhJJ.png)
+
+Lobby Tools                |  Victim Tools
+:-------------------------:|:-------------------------:
+![](https://i.postimg.cc/8FcMQCxH/Q0ba4YXT.png)  |  ![](https://i.postimg.cc/CRmkQ8r5/zNXubAiF.png)
+
 
 ## CREDITS TO
 ###### Rimuru for assisting me with all my errors and providing WO CRASH 
