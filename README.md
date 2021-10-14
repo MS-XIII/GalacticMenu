@@ -18,6 +18,15 @@ Victim Shit                |  Lobby Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+## Version 1.2.0 13/10/2021 change logs
+
+## FEATURES ##
+
+- added force player to be christian 
+- added vehicle kick loop
+- added smoke grenades and molotovs to rain on player
+--------------------------------------------------------------------------------------
 ## Version 1.1.4 08/10/2021 change logs
 
 ## FEATURES ##
