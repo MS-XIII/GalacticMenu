@@ -18,6 +18,13 @@ Victim Shit                |  Lobby Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+##Version 1.3.0 15/10/2021 change logs
+
+## FEATURES ##
+
+- added TUG entities
+- fixed some bugs
+- changed crashes
 --------------------------------------------------------------------------------------
 ## Version 1.2.0 13/10/2021 change logs
 
