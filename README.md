@@ -18,7 +18,19 @@ Victim Shit                |  Lobby Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
-##Version 1.3.0 15/10/2021 change logs
+## Version 1.4.0 16/10/2021 change logs
+
+## FEATURES ##
+
+- moved certain vehicle "troll" options to online > playername > script features
+- added more dildo attachments to lobby troll section
+- changed some of lobby chat so it toggles on/off spam
+
+## known bugs ##
+
+- lobby chat on/off spam is not working it spams until you reset script
+--------------------------------------------------------------------------------------
+## Version 1.3.0 15/10/2021 change logs
 
 ## FEATURES ##
 
