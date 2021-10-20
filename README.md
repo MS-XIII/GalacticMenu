@@ -18,6 +18,14 @@ Victim Shit                |  Lobby Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.5.0 20/10/2021 change logs
+
+## FEATURES ##
+
+- added 7 crashes dubbed "Pizza Crash" 
+- added autopsy crash
+- fixed bugs 
+--------------------------------------------------------------------------------------
 ## Version 1.4.0 16/10/2021 change logs
 
 ## FEATURES ##
