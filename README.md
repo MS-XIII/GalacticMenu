@@ -18,6 +18,18 @@ Victim Shit                |  Lobby Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.6.0 23/10/2021 change logs
+
+## FEATURES ##
+
+- changed the splash screen to make it look more goated. credit to the person who released "Universe" 
+- added animation to script name. credit to the person who released "universe" 
+- removed few crash options for private use only
+
+## Known bugs ##
+
+- lobby spam chat has some issues with the toggling still
+--------------------------------------------------------------------------------------
 ## Version 1.5.0 20/10/2021 change logs
 
 ## FEATURES ##
