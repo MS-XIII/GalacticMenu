@@ -25,6 +25,8 @@ Victim Shit                |  Lobby Shit
 - changed the splash screen to make it look more goated. credit to the person who released "Universe" 
 - added animation to script name. credit to the person who released "universe" 
 - removed few crash options for private use only
+- added system time on screen
+- added host info (toggle) in lobby misc 
 
 ## Known bugs ##
 
