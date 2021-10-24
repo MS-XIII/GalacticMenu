@@ -2,9 +2,9 @@
 ![MenuName](https://i.postimg.cc/m28tZYc3/galacticmenu1.png)
 
 
-Victim Shit                |  Lobby Shit
-:-------------------------:|:-------------------------:
-![](https://i.postimg.cc/mtMGjND3/unknown112.png)  |  ![](https://i.postimg.cc/c6vWgNGb/unknown113.png)
+Script Starting Point      |  Lobby Shit               |           Victim Shit
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://media.giphy.com/media/fKbYEADMQp49vsIWtW/giphy.gif) |  ![](https://i.postimg.cc/c6vWgNGb/unknown113.png)  | ![hippo](https://i.postimg.cc/mtMGjND3/unknown112.png)
 
 
 
