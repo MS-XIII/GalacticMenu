@@ -22,6 +22,18 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 
 ## FEATURES ##
 
+- changed welcome ui a little 
+- changed teleport location when script is enabled
+
+## fixed ## 
+
+- some bugs
+- quality issues which caused lagging
+--------------------------------------------------------------------------------------
+## Version 1.7.0 25/10/2021 change logs
+
+## FEATURES ##
+
 - added expanded and enhanced cages by duerccio#0364 and others
 - added spawn clone follower by duerccio#0364 and others
  
