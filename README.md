@@ -18,12 +18,13 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
-## Version 1.7.0 25/10/2021 change logs
+## Version 1.7.0 04/11/2021 change logs
 
 ## FEATURES ##
 
 - changed welcome ui a little 
 - changed teleport location when script is enabled
+- added spectating osd/players (AUTOMATICALLY TURNED ON) will tell you if modder is spectating someone or when you are spectating someone
 
 ## fixed ## 
 
