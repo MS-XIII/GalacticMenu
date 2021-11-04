@@ -22,7 +22,8 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 
 ## FEATURES ##
 
-- changed welcome ui a little 
+- changed welcome ui text a little
+- changed font on welcome ui text and date/time stamp 
 - changed teleport location when script is enabled
 - added spectating osd/players (AUTOMATICALLY TURNED ON) will tell you if modder is spectating someone or when you are spectating someone
 
