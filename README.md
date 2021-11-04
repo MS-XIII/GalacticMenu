@@ -18,6 +18,14 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.8.1 04/11/2021 change logs
+
+## HOTFIX ##
+
+- removed a few crashes and added 3 more.
+- edited some bad spelling 
+- fixed a bug that made a beetle appear on your screen
+--------------------------------------------------------------------------------------
 ## Version 1.8.0 04/11/2021 change logs
 
 ## FEATURES ##
