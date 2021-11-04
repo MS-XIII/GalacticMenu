@@ -18,14 +18,16 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
-## Version 1.7.0 04/11/2021 change logs
+## Version 1.8.0 04/11/2021 change logs
 
 ## FEATURES ##
 
 - changed welcome ui text a little
-- changed font on welcome ui text and date/time stamp 
+- changed font on welcome ui text and date/time/host info stamp 
 - changed teleport location when script is enabled
 - added spectating osd/players (AUTOMATICALLY TURNED ON) will tell you if modder is spectating someone or when you are spectating someone
+- added host info which is automatically turned on 
+- added protections section ( block ads, ozarks emergency evacuation, listener, counter-observation ) counter observation is automatically turned on 
 
 ## fixed ## 
 
