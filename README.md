@@ -23,7 +23,7 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ## FEATURES ##
 
 - added 2 new crashes to player name > scripts > galactic_player > crashes
-- added orbital player blaming. HOW TO USE: CLICK UPDATE PLAYERS, GO DOWN AND CHANGE TO WHICHEVER YOU WANT. players arent currently named
+- added orbital player blaming. HOW TO USE: CLICK UPDATE PLAYERS, GO DOWN AND CHANGE TO WHICHEVER YOU WANT.
 - added crazy rain
 - added more caging stuff
 
