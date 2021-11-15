@@ -18,6 +18,20 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.9.0 15/11/2021 change logs
+
+## FEATURES ##
+
+- added 2 new crashes to player name > scripts > galactic_player > crashes
+- added orbital player blaming. HOW TO USE: CLICK UPDATE PLAYERS, GO DOWN AND CHANGE TO WHICHEVER YOU WANT. players arent currently named
+- added crazy rain
+- added more caging stuff
+
+## HOTFIX ##
+
+- edited some bad spelling 
+
+--------------------------------------------------------------------------------------
 ## Version 1.8.1 04/11/2021 change logs
 
 ## HOTFIX ##
