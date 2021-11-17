@@ -18,6 +18,17 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.9.2 17/11/2021 change logs
+
+## FEATURES ##
+
+- added safe space to protections
+- added squidgame troll to Lobbytroll
+- added check lua version in settings
+
+MINOR UPDATE just for the fun of it will update it more tomorrow or ther day after!!
+
+--------------------------------------------------------------------------------------
 ## Version 1.9.0 15/11/2021 change logs
 
 ## FEATURES ##
