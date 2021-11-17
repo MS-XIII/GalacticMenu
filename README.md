@@ -25,6 +25,8 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 - added safe space to protections
 - added squidgame troll to Lobbytroll
 - added check lua version in settings
+- added rapid fire on vehicle weapons
+- added sight airstrike and railgun to selfplayer!!
 
 MINOR UPDATE just for the fun of it will update it more tomorrow or ther day after!!
 
