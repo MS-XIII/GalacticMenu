@@ -18,6 +18,18 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.9.4 18/11/2021 change logs
+
+## FEATURES ##
+
+- added get host
+- anti mk1 and mk2
+- added a 4 shield protections
+
+## BUG FIX ## 
+
+- fixed sight airstrike and railgun
+--------------------------------------------------------------------------------------
 ## Version 1.9.2 17/11/2021 change logs
 
 ## FEATURES ##
