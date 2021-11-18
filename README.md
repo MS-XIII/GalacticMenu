@@ -18,6 +18,18 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 1.9.6 18/11/2021 change logs
+
+## FEATURES ##
+
+- added fast respawn
+- added fast shooter
+- added hitsquad 2 (will move both hit squads on next update ) 
+
+## BUGS ##
+
+- hide yourself on the map causes other players to not be able to get into a car with you as passenger also causes you to not be able too kill anyone with guns
+--------------------------------------------------------------------------------------
 ## Version 1.9.4 18/11/2021 change logs
 
 ## FEATURES ##
