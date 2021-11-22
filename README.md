@@ -18,6 +18,16 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 2.1.0 22/11/2021 change logs
+
+## FEATURES ##
+
+- added save settings (but its causing a error so dont use till it gets fixed LOL sorry)
+- added teleport section with various places to teleport too 
+- added target dot 1, 2, 3 to selfplayer options
+- added bullet stuff to selfplayer options - bullet damage, bullet speed and more!! 
+
+--------------------------------------------------------------------------------------
 ## Version 2.0.0 22/11/2021 change logs
 
 ## FEATURES ##
