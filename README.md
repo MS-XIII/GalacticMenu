@@ -18,6 +18,18 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 2.0.0 22/11/2021 change logs
+
+## FEATURES ##
+
+- added check player for godmode misc
+- added how many people in godmode in lobbymisc
+
+## MAJOR FIX ##
+
+- major bug issue was found where some people couldnt load lua or use alot of features this has been fixed!! 
+
+--------------------------------------------------------------------------------------
 ## Version 1.9.6 18/11/2021 change logs
 
 ## FEATURES ##
