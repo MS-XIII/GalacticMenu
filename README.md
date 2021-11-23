@@ -18,6 +18,20 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 2.2.0 23/11/2021 change logs
+
+## FEATURES ##
+
+-  added sneaky explosions and check info, etc 
+-  changed where you couldnt turn off the date/time on screen now you can turn on and off
+-  added more shield options
+-  added a prohibited vehicles section
+-  added vehicle stuff section to selfstuff 
+
+## KNOWN BUGS ##
+
+- save settings is causing a error. will hopefully fix soon 
+--------------------------------------------------------------------------------------
 ## Version 2.1.0 22/11/2021 change logs
 
 ## FEATURES ##
