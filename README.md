@@ -18,6 +18,18 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 2.2.1 25/11/2021 change logs
+
+## FEATURES ##
+
+- Godmode check now flags players as modders who failed the check, since they are in godmode.
+- fixed a few bugs found in v2.2.0 
+
+## KNOWN BUGS ##
+
+- save settings is still broken and im still working on fixing it 
+
+--------------------------------------------------------------------------------------
 ## Version 2.2.0 23/11/2021 change logs
 
 ## FEATURES ##
