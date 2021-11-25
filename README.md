@@ -25,6 +25,10 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 - Godmode check now flags players as modders who failed the check, since they are in godmode.
 - fixed a few bugs found in v2.2.0 
 
+## REMOVED ##
+
+- removed 2 spam even crashes because of errors
+
 ## KNOWN BUGS ##
 
 - save settings is still broken and im still working on fixing it 
