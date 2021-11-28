@@ -27,7 +27,7 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 
 ## REMOVED ##
 
-- removed 2 spam even crashes because of errors
+- removed 2 spam event crashes because of errors
 
 ## KNOWN BUGS ##
 
