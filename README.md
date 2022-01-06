@@ -18,6 +18,47 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 3 (BETA) 06/01/2022
+
+Its been a while and i have redone it all so it looks different!! 
+i will name some features but not all as its time consuming
+
+## V3 FEATURES LIST (BASIC) ## 
+
+- Weapon options for selfplayer 
+- Standard Godmode 
+- Kratos Mode ( GOD OF WAR) 
+- 1.25 MIL Loop
+- various lobby crashes
+
+- Teleport section to shops, glitched locations and some random locations too!
+- vehicle rapid fire (only works if vehicle has weapons) 
+
+- Protections. Safe space and blocking ads 
+- aim protections
+- area block notifications (will notify you who and how far players are from whatever option is enabled. all options enabled by default)
+- nuke locations - casino entrance, 400k apartment, arcade and lscm in la mesa
+- FIX infinite cloud loading 
+
+- disable displayed things like minimap, location info and more
+- shows host info on by default
+
+- check players health and penis size along with setting health to zero
+- ceo money loop, ban, dismiss and terminate along with hit squads
+
+- crash options like fake pizza crash and more
+- various trolling options
+
+
+## KNOWN BUGS ##
+
+- as far as im aware there are no current bugs this will be getting tested before beta release
+
+
+
+
+
+--------------------------------------------------------------------------------------
 ## Version 2.2.1 25/11/2021 change logs
 
 ## FEATURES ##
