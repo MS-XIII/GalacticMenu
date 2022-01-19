@@ -18,6 +18,18 @@ Script Starting Point      |  Lobby Shit               |           Victim Shit
 ###### Atom for his only piece of working code because the rest was shit and broke
 ###### anyone else that i must have missed but im sure someone will tell me xD
 --------------------------------------------------------------------------------------
+## Version 3.2 (BETA) 19/01/2022
+
+## V3.2 FEATURES LIST (BASIC) ## 
+
+- added gif to home screen. runs automatically
+- added some extra protections
+
+## KNOWN BUGS ##
+
+- fixed bugs where error notifs would pop up when first running lua.
+- fixed some files round due to stuff not working correctly.
+--------------------------------------------------------------------------------------
 ## Version 3 (BETA) 06/01/2022
 
 Its been a while and i have redone it all so it looks different!! 
